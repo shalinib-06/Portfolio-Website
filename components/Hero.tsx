@@ -67,7 +67,7 @@ export default function Hero() {
                 <span>shalinibalaji0611@gmail.com</span>
               </motion.a>
               <motion.a
-                href="tel:+919043933854"
+                href="tel:+91xxxxxxxxxxx"
                 whileHover={{ scale: 1.05 }}
                 className="flex items-center gap-2 text-gray-300 hover:text-light-blue transition-colors"
               >
@@ -127,7 +127,7 @@ export default function Hero() {
               {/* Profile image - will show if available */}
               <div className="absolute inset-0 z-10">
                 <Image
-                  src="/height sample.png"
+                  src="/profile.png"
                   alt="Shalini B"
                   fill
                   className="object-cover"
