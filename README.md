@@ -4,6 +4,14 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ---
 
+##  Live Demo
+
+View the live website here:  
+[Shalini Portfolio](https://portfoliowebsite-zeta-three.vercel.app)
+
+---
+
+
 ## Features
 
 -  Modern cyan/blue themed UI
