@@ -4,6 +4,14 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ---
 
+##  Live Demo
+
+View the live website here:  
+[Shalini Portfolio](https://portfoliowebsite-zeta-three.vercel.app)
+
+---
+
+
 ## Features
 
 -  Modern cyan/blue themed UI
@@ -16,7 +24,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - Next.js (App Router)
@@ -43,11 +51,11 @@ NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 ---
 ### Screenshots
-(output/portfolio1.jpeg)
-(output/portfolio2.jpeg)
-(output/portfolio3.jpeg)
-(output/portfolio4.jpeg)
-(output/portfolio5.jpeg)
-(output/portfolio6.jpeg)
-(output/portfolio7.jpeg)
+![output](output/portfolio1.jpeg)
+![output](output/portfolio2.jpeg)
+![output](output/portfolio3.jpeg)
+![output](output/portfolio4.jpeg)
+![output](output/portfolio5.jpeg)
+![output](output/portfolio6.jpeg)
+![output](output/portfolio7.jpeg)
 
